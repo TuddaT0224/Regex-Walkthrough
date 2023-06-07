@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Email Tutorial
 
-Introductory paragraph (replace this with your text)
+In this tutorial we will be going over what a Regular Expression (Regex) is and what it is used for. A Regex is a sequence of characters that define a search pattern for a text.
+It can be used to find patterns within a string of information.
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial will specifically go over the Regex model for emails. They are used to validate input in this example it will be used to validate an email address. A example of that would look like this: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/.
 
 ## Table of Contents
 
